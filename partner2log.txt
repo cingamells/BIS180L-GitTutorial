@@ -1,0 +1,11 @@
+commit e786a8b163f25aadf63fa601ebc94c4967368717
+Author: darwinATCG <flynnatallah@gmail.com>
+Date:   Thu Mar 31 15:28:35 2022 -0700
+
+    Santa Baby
+
+commit 05579915a280c8770a7e36da2691292fa65c2d7e
+Author: cingamells <cingamells@ucdavis.edu>
+Date:   Thu Mar 31 15:05:44 2022 -0700
+
+    added weekendplans.txt
